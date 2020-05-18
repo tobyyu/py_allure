@@ -1,0 +1,55 @@
+{
+  "uid" : "c2caf42cbef794c4",
+  "name" : "test_skipif",
+  "fullName" : "tests.test_marks.TestMarks#test_skipif",
+  "historyId" : "074496241a3a8d7ba7f98d0b7089fd06",
+  "time" : {
+    "start" : 1589120411352,
+    "stop" : 1589120411353,
+    "duration" : 1
+  },
+  "description" : "版本小于3.7不执行",
+  "descriptionHtml" : "<p>版本小于3.7不执行</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_marks"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMarks"
+  }, {
+    "name" : "host",
+    "value" : "8S9K3DZP3JRJTZY"
+  }, {
+    "name" : "thread",
+    "value" : "17372-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_marks"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2caf42cbef794c4.json",
+  "parameterValues" : [ ]
+}

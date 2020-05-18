@@ -1,0 +1,15 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "26a19056a3c575a3b664daa484646214",
+    "name" : "用户登录功能",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

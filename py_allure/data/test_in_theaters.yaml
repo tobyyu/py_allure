@@ -1,0 +1,27 @@
+tests:
+  - case: 登录响应
+    http:
+      method: POST
+      path: /user/login
+      headers:
+        osType: h5
+      params:
+        phone: 17700000002
+        code: 1235
+    excepted:
+      response:
+        code: 0
+        msg: success
+  - case: 未
+    http:
+      method: POST
+      path: /user/login
+      headers:
+        osType: h5
+      params:
+        phone: 17700000001
+        code: 1234
+      excepted:
+        response:
+          code: 0
+          msg: success
