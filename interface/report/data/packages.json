@@ -1,0 +1,74 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcase.test_goods_classify",
+    "children" : [ {
+      "name" : "test_seach_goods",
+      "uid" : "897b060085be8dcc",
+      "parentUid" : "b28d3e146e5858c5efed970358f39d40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589972823818,
+        "stop" : 1589972831338,
+        "duration" : 7520
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_goods_info",
+      "uid" : "bc2b4bf63a3acae9",
+      "parentUid" : "b28d3e146e5858c5efed970358f39d40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589972831345,
+        "stop" : 1589972838650,
+        "duration" : 7305
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_goods_tings",
+      "uid" : "4af7912dd0a02d9a",
+      "parentUid" : "b28d3e146e5858c5efed970358f39d40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589972838653,
+        "stop" : 1589972846576,
+        "duration" : 7923
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_product_description",
+      "uid" : "a527bfffa6bcc4d8",
+      "parentUid" : "b28d3e146e5858c5efed970358f39d40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589972846587,
+        "stop" : 1589972853429,
+        "duration" : 6842
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_goods",
+      "uid" : "db46bc15176fd3ef",
+      "parentUid" : "b28d3e146e5858c5efed970358f39d40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589972853432,
+        "stop" : 1589972860953,
+        "duration" : 7521
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testcase.test_goods_classify"
+  } ]
+}

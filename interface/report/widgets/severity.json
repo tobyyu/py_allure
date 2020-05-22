@@ -1,0 +1,51 @@
+[ {
+  "uid" : "db46bc15176fd3ef",
+  "name" : "test_goods",
+  "time" : {
+    "start" : 1589972853432,
+    "stop" : 1589972860953,
+    "duration" : 7521
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a527bfffa6bcc4d8",
+  "name" : "test_product_description",
+  "time" : {
+    "start" : 1589972846587,
+    "stop" : 1589972853429,
+    "duration" : 6842
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc2b4bf63a3acae9",
+  "name" : "test_goods_info",
+  "time" : {
+    "start" : 1589972831345,
+    "stop" : 1589972838650,
+    "duration" : 7305
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "897b060085be8dcc",
+  "name" : "test_seach_goods",
+  "time" : {
+    "start" : 1589972823818,
+    "stop" : 1589972831338,
+    "duration" : 7520
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4af7912dd0a02d9a",
+  "name" : "test_goods_tings",
+  "time" : {
+    "start" : 1589972838653,
+    "stop" : 1589972846576,
+    "duration" : 7923
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,82 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "test_goods_classify",
+      "children" : [ {
+        "name" : "TestGoods",
+        "children" : [ {
+          "name" : "test_seach_goods",
+          "uid" : "897b060085be8dcc",
+          "parentUid" : "6f0dc945fcee3c5e9b352e030bc67657",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589972823818,
+            "stop" : 1589972831338,
+            "duration" : 7520
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_goods_info",
+          "uid" : "bc2b4bf63a3acae9",
+          "parentUid" : "6f0dc945fcee3c5e9b352e030bc67657",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589972831345,
+            "stop" : 1589972838650,
+            "duration" : 7305
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_goods_tings",
+          "uid" : "4af7912dd0a02d9a",
+          "parentUid" : "6f0dc945fcee3c5e9b352e030bc67657",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589972838653,
+            "stop" : 1589972846576,
+            "duration" : 7923
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_product_description",
+          "uid" : "a527bfffa6bcc4d8",
+          "parentUid" : "6f0dc945fcee3c5e9b352e030bc67657",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589972846587,
+            "stop" : 1589972853429,
+            "duration" : 6842
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_goods",
+          "uid" : "db46bc15176fd3ef",
+          "parentUid" : "6f0dc945fcee3c5e9b352e030bc67657",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589972853432,
+            "stop" : 1589972860953,
+            "duration" : 7521
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6f0dc945fcee3c5e9b352e030bc67657"
+      } ],
+      "uid" : "6d472cdac06bf04e81a1a114ce81a5d0"
+    } ],
+    "uid" : "7d3977dcbf31acd3e26ecbe96342e45e"
+  } ]
+}

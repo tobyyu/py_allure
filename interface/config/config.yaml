@@ -1,0 +1,3 @@
+#测试环境域名配置
+host:
+  ip: http://app.51zheli.com
